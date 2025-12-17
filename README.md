@@ -45,7 +45,8 @@
 
 ## Output
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 172836" src="https://github.com/user-attachments/assets/8f49b734-c811-4784-8795-4cde861bd833" />
-![Uploading Screenshot 2025-12-17 173026.png…]()
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 173026" src="https://github.com/user-attachments/assets/db090bf6-3662-489e-ae23-42cd64181db1" />
+
 
 
 
